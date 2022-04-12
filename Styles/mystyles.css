@@ -3,4 +3,63 @@
     background-color: rgb(228, 194, 192);
 }
 
+.textcenter{
+    text-align: center;
+}
 
+.fontchange{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bodytext {
+    text-align: justify;
+    text-size-adjust: 22px;
+
+}
+
+.textwave {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.header {
+    font-weight: bolder;
+    font-weight: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 3px solid rgb(7, 5, 5);
+    color: rgb(56, 42, 42);
+
+}
+
+.textcolor {
+    color: rgb(56, 42, 42);
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+       margin-right: auto;
+        width: 50%;
+      }
+
+.linkcenter {
+        text-align: center;
+        display:block;
+        border: 3px solid rgb(53, 41, 41);
+      }
+
+.resumeformat {
+    font-weight: bold;
+}
+
+.anchors {
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
